@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Title: Chapter Two
+=======
+Title: Two
+>>>>>>> 1810dbd6e72043a36c1a4bd0074cd93591c678fc
